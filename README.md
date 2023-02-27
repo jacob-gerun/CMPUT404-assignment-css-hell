@@ -5,6 +5,7 @@ Part 1
 I had to remove the css from the gutenberg html.
 For the Romeo and Juliet html, I had to download the image 
 and change the image url in the html to point to my local cover image.
+
 ====================
 
 You will skin 3 project gutenberg stories with custom CSS.

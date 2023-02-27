@@ -1,5 +1,11 @@
 Assignment: CSS Hell
 ====================
+Part 1
+
+I had to remove the css from the gutenberg html.
+For the Romeo and Juliet html, I had to download the image 
+and change the image url in the html to point to my local cover image.
+====================
 
 You will skin 3 project gutenberg stories with custom CSS.
 
@@ -15,9 +21,9 @@ git clone https://github.com/abramhindle/CMPUT404-assignment-css-hell.git
 License/Copyright
 =================
 
-Textual content is copyright Abram Hindle (C) 2013 under the CC-BY-SA
+Textual content is copyright Abram Hindle, Jacob Gerun (C) 2023 under the CC-BY-SA
 4.0 unported license. Attribution should be a hyperlink to the
-repository and (C) 2013 Abram Hindle visibile in the text.
+repository and (C) 2013 Abram Hindle, Jacob Gerun visibile in the text.
 
 Code is licensed under the Apache 2.0 license.
 

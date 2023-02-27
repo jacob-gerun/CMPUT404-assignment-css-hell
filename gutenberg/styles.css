@@ -1,0 +1,33 @@
+body {
+    background-color: #f7d9ad;
+    background-image: url(../images/bg.jpg);
+    background-repeat: repeat;
+    font-family: serif;
+  }
+p {
+    font-family: serif;
+    font-size: 20px;
+    color: black;
+    text-align: center;
+  }
+img {
+    border: 2px solid darkgray;
+    padding: 10px;
+  }
+figcaption {
+    font-style: italic;
+}
+h1, h2, h3{
+  font-family: serif;
+  font-weight: bold;
+  font-style: italic;
+  border: 1px solid #ccc;
+  padding: 10px;
+
+}
+h4, h5, h6 {
+  font-family: serif;
+  font-style: italic;
+  border: 1px solid #ccc;
+  padding: 10px;
+}

@@ -48,6 +48,7 @@ div.post {
   box-shadow: 0 8px 8px black;
   margin: 16px;
 }
+
 div.post:hover {
   box-shadow: 0 8px 16px black;
 }
@@ -55,14 +56,40 @@ div.post:hover {
 .grid-container {
   display: grid;
 }
-.item1{
+
+.item1 {
   grid-column-start: 1;
   grid-column-end: 3;
 }
-img{
-  height:124px;
-  width:124px;
+
+img {
+  height: 124px;
+  width: 124px;
   float: left;
   margin-right: 20px;
-  vertical-align :middle;
+  vertical-align: middle;
 }
+
+.parent {
+  margin-left: 150px;
+}
+
+.sidebar {
+  height: 100%;
+  width: 150px;
+  position: fixed;
+  left: 0;
+  top: 0;
+  padding-top: 40px;
+  background-color: aliceblue
+}
+.sidebar-header {
+  font-size: 24px;
+  text-align: center;
+}
+.sidebar div {
+  padding: 8px;
+  font-size: 16px;
+  display: block;
+}
+
